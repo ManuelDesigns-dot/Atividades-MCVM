@@ -1,0 +1,1 @@
+Esse repositório é utilizado com a função de arquivar e organizar todos os trabalhos que provém da EEEP MCVM, pode-se encontrar códigos para diferentes linguagens selecionando o folder de seu interesse.
