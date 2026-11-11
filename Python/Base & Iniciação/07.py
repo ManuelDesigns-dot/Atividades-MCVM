@@ -1,0 +1,2 @@
+numero = float(input("Insira seu número para encontrar sua tabuáda: "))
+print("Número: ",numero,"\n MULTIPLO | NÚMERO","\n 1  | ",(numero),"\n 2  | ",(numero*2),"\n 3  | ",(numero*3),"\n 4  | ",(numero*4),"\n 5  | ",(numero*5),"\n 6  | ",(numero*6),"\n 7  | ",(numero*7),"\n 8  | ",(numero*8),"\n 9  | ",(numero*9),"\n 10  | ",(numero*10))

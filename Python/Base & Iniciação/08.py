@@ -1,0 +1,5 @@
+fahrenheit = int(input("Insira a temperatura em Fahrenheit: "))
+print("A sua temperatura em Fahrenheit é: ",fahrenheit)
+celsius = 5*((fahrenheit-32)/9)
+print("Referência: 212 Fahrenheit = 100 Celsius")
+print("Sua temperatura em celsius é:",celsius)
